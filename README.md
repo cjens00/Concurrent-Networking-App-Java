@@ -3,7 +3,7 @@
 #### Updates:
 
 - Tested with 1000 concurrent TCP connections:
-  - Maintains stability, low CPU usage
+  - Maintains stability
 
 #### Todos:
 
